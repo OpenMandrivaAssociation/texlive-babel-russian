@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.3
 Name:		texlive-babel-russian
-Version:	1.3
-Release:	9
+Version:	1.3j
+Release:	1
 Summary:	Russian language module for Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/russian
