@@ -1,6 +1,6 @@
 Name:		texlive-babel-russian
 Version:	57376
-Release:	1
+Release:	2
 Summary:	Russian language module for Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/russian
